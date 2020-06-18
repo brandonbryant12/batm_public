@@ -40,6 +40,7 @@ public enum CryptoCurrency {
     ANT("Aragon Network Token"),
     BAT("Basic Attention Token"),
     BCH("Bitcoin Cash"),
+    BSV("BitCoin"),
     BNB("BinanceCoin"),
     BSD("BitSend"),
     BTC("Bitcoin"),
